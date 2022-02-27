@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for women, or, A spie for pride: shewing the unlawfulnesse of any outward adorning of any attire of haire, either in laying forth the haire, or in crisping of the haire, or in broidered haire in all women, but especially in godly women, declared fully by the Scripture. Also those Scriptures and carnall objections answered which are seemingly made for it.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86182</idno>
+            <idno type="STC">Wing H139</idno>
+            <idno type="STC">Thomason E2_18</idno>
+            <idno type="STC">ESTC R3679</idno>
+            <idno type="EEBO-CITATION">99872462</idno>
+            <idno type="PROQUEST">99872462</idno>
+            <idno type="VID">124899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for women, or, A spie for pride: shewing the unlawfulnesse of any outward adorning of any attire of haire, either in laying forth the haire, or in crisping of the haire, or in broidered haire in all women, but especially in godly women, declared fully by the Scripture. Also those Scriptures and carnall objections answered which are seemingly made for it.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>[6], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: T. H.</note>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "July 19th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hairdressing --  Early works to 1800.</term>
+               <term>Women --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124899:1" rendition="simple:additions"/>
+            <p>A Looking-Glaſſe FOR WOMEN, OR, A Spie for Pride: SHEWING The unlawfulneſſe of any outward adorning of any attire of Haire, either in laying forth the Haire, or in criſping of the Haire, or in broidered Haire in all Women, but eſpeci<g ref="char:EOLhyphen"/>ally in godly Women, declared fully by the Scripture.</p>
+            <p>Alſo thoſe Scriptures and carnall Objections anſwer<g ref="char:EOLhyphen"/>ed, which are ſeemingly made for it.</p>
+            <q>
+               <bibl>Prov. 22. 23.</bibl>
+               <p>Buy the Truth, and ſell it not.</p>
+            </q>
+            <q>
+               <bibl>Col. 2. 6.</bibl>
+               <p>
+                  <hi>As you have therefore received the Lord Jeſus Chriſt, ſo walke you in him.</hi>
+               </p>
+            </q>
+            <p>London Printed for <hi>R. W.</hi> 1644.</p>
+            <pb facs="tcp:124899:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:124899:2"/>
+            <head>To the Chriſtian READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have a long time ſate down in my thoughts, to admire awhile, to ſee the ſtrain of the world, how that there is nothing wanting in them to make up their deſtruction, they will take paines to be drunk, to whore, to cozen, to lie, to ſteale, to murder, to be proud, and a thouſand ſins more, which they are faithfull unto him to do who raignes in them as a Prince, in all the Children of diſobedience, yea, they would rather ſink down preſently into hell, then to leave one ſin; and the reaſon is, becauſe they walk according to the principles which rule in them.</p>
+            <p>And truly, upon the ſad conſideration of this particular, to ſee and obſerve that wicked men ſhould be ſo at every com<g ref="char:EOLhyphen"/>mand to him in whom they ſerve, and do walk according to their own deſtruction.</p>
+            <p>It cauſed me to conſider, how that godly men and women
+<pb facs="tcp:124899:3"/>
+had need to walk according to the pattern which Ieſus Chriſt hath left us, who ruleth in all his Elect; as their only King, Prieſt and Prophet, and becauſe my love is ſo dear unto the Saints, that I would have them walk according to the rule which Ieſus Chriſt hath left unto his Saints in his Word: It pleaſed the Lord to ſtir up my heart to conſider upon the law<g ref="char:EOLhyphen"/>fulneſſe, or unlawfulneſſe of wearing any outward attire of haire in women, whether laying forth, or any other attire elſe, and found it by the Word to be utterly unlawfull, againſt the the minde and rule of the Apoſtle <hi>Peter,</hi> and of the Apoſtle <hi>Paul;</hi> and one great reaſon which made me wave into this work, was, becauſe that I ſaw many godly women do now a<g ref="char:EOLhyphen"/>dayes weare it, yea, thoſe whom we call Miniſters wives, who ſhould have given better example unto other women, beſides many other godly women of particular Congregations, who have given up their names unto Chriſt both in heart and mouth, Covenanting to walk with Ieſus Chriſt among his members, in all the known truths of God, as it ſhall be from day to day revealed unto them by his ſpirit from the Word of God.</p>
+            <p>Therefore I finding this outward attire of any outward a<g ref="char:EOLhyphen"/>dorning of haire to be unlawfull in any woman whatſoever, but more eſpecially among godly women. Conſidering like<g ref="char:EOLhyphen"/>wiſe that many learned godly men have taken but little notice of it, who might have written for more better then my weak capacity am able to underſtand.</p>
+            <p>Conſidering likewiſe that any godly man or woman would not live in any known ſin, if that they knew it: Vpon theſe
+<pb facs="tcp:124899:3"/>
+three conſiderations it moved me to declare my minde touch<g ref="char:EOLhyphen"/>ing the unlawfulneſſe of laying forth the hair in women, and truly I ſhould not have ſo fully declared my minde unto the world, if I had not found the ſpirits of godly women affected to it ſo much as they are: Therefore deſiring ſuch whom it may concern, to accept of theſe few lines, or ſhort epitomy, as the tenderings and earnings of my love unto all thoſe that de<g ref="char:EOLhyphen"/>ſire to live godly in this preſent evill world, and in their willing acceptation of it, will my love be requited, not looking at any gain hereby, except it be the calumnies and reproaches, which may be of my friends, as well as of my enemies, but I ſhall wave whatſoever comes by, as looking more at the good which I intended thereby, then at the evill which may come upon it, deſiring the Lord that he would direct all our hearts, both of men and women, ſo to vvalk, that vve may ſee Ie<g ref="char:EOLhyphen"/>ſus Chriſt in all our vvalkings:</p>
+            <closer>
+               <signed>Your ſervant in Jeſus Chriſt, T. H.</signed>
+            </closer>
+            <pb facs="tcp:124899:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:124899:4"/>
+            <head>A Looking-Glaſſe FOR VVOMEN, OR, A SPIE for PRIDE.</head>
+            <p>
+               <seg rend="decorInit">S</seg>In commonly carries a faire gloſſe with it, and I have ob<g ref="char:EOLhyphen"/>ſerved that the divel, when he would preſent a ſin unto any godly man or woman, he never preſents it in the ſame ſhape as it is in its own nature, but maskes it over with ſome ſeeming pretence or colour for it, I could in<g ref="char:EOLhyphen"/>ſtance it divers wayes wherein he doth it; but becauſe we are upon this ſubject only; namely to prove its ut<g ref="char:EOLhyphen"/>terly unlawful for any woman to go in any outward adorning of attire of haire, in laying it forth in any faſhion whatſoever, under that ſeeming pre<g ref="char:EOLhyphen"/>tence of a covering, and that it was given to them for an ornament to deck themſelves withall, which to ſay plainly, is but pride, and cometh from him who is the author of all ſin.</p>
+            <pb n="2" facs="tcp:124899:5"/>
+            <p>Therefore I ſhall begin this worke from that portion of Scripture, which the Apoſtle <hi>Peter</hi> hath laid down as a pattern for every godly wo<g ref="char:EOLhyphen"/>man to walke by, which is out of the firſt of <hi>Peter</hi> 2. 3. in theſe words, <hi>Whoſe adorning let it be, not that outward adorning, as of plaiting the haire.</hi>
+            </p>
+            <p>Theſe words are a direction by the Apoſtle, ſetting forth the carriage of a Chriſtian woman in her outward adorning toward the gaining in of an unbelieving husband, as if the Apoſtle ſhould have ſaid, you that have husbands in the ſtate of nature, and you being in the ſtate of grace, your converſation of life ſhould be ſuch, while they beholding of it being coupled with feare, might be wun without the word, by the converſation of the wife; which cannot be ſaith the Apoſtle in vaine, and outward a<g ref="char:EOLhyphen"/>adornings, and in the hidden man of the heart, but there will be ſuch a converſation that every thing will be anſwerable unto it, both in your words, geſture, &amp; attire, or outward adorning: as if he ſhould have ſaid, be your ſpeech never ſo gracious, and your geſture never ſo meeke, yet if your outward adorning be light or gaudy, what a contradiction will here be, between light and darkneſſe, and we know that light and darkneſſe can never dwell together untill they be agreed, <hi>Amos</hi> 3. 3.</p>
+            <p>Now ſaith the Apoſtle, in the conſideration of this, what a hinderance will it be in the drawing in of a yoke fellow here unto Chriſt, when as he ſhall ſee that you are halfe for God, and halfe for the world, when as he ſhall ſee your ſpeech and geſture is after the minde of God, and your attire and outward adorning to be after the faſhions of the world, which is con<g ref="char:EOLhyphen"/>trary to the glorious light of God, which once if the Lord be pleaſed to let it ſhine in men or women, it will ſhine in every part of their converſa<g ref="char:EOLhyphen"/>tion, now you cannot ſee the glorious light of Gods truth to ſhine in your outward adorning of attire of haire, as in your ſpeech and geſture, not that my meaning is that you ſhould place any godlineſſe in it but that it may ſhew forth to the world that godlineſſe is in you, and truly the A<g ref="char:EOLhyphen"/>poſtle <hi>Paul</hi> would not have bid us, faſhion not our ſelues according to the world, if that the Spirit of God by him had not put a difference both be<g ref="char:EOLhyphen"/>tween our ſpeeches and geſture, and outward adornings, to teſtifie unto the world that you are ſuch whom he hath choſen out of the world.</p>
+            <p>And truly thoſe godly women that do uſe this outward adorning of laying forth the haire, a man can hardly know them from the women of the world, nay and moreover, to other godly Chriſtian men, and women, that hear that ſuch as are Chriſtians that do were it, they not knowing of them, they will be but unto them as ſeeming Chriſtians; and they will
+<pb n="3" facs="tcp:124899:5"/>
+ground it from this, that if the heart were ſtable and ſound, their attire of laying forth their haire would not be light and gaudy, becauſe that Chriſt ſaith, <hi>Out of the abundance of the heart the mouth ſpeaks,</hi> Mat. 12. 34. that is whatſoever cometh forth out of the heart from man or woman, either in word or action, it doth declare the heart to be more holy, or leſſe holy, that is, ſeeming holy, or reall holy, and this was that which the Apoſtle <hi>James</hi> drove at, <hi>Jam.</hi> 2.17, 18, 19, 20, 21. that godly men ſhould declare their faith by their works, as if he ſhould have ſaid, though it be not workes that you can be ſaved by, yet is it ſuch that muſt give that teſtimony to the world, that you are ſuch whom the Lord hath bin pleaſed for to call from among them (that is) you cannot be a believer and a drunkerd too, a believer and a proud perſon too, a believer and a wanton perſon too, in your words, geſture and attire, for this end he hath made a difference between you, and the world, that you ſhould walke more holier before him, which muſt be ſeen in your outward adorning, as well as in your ſpeech and geſture.</p>
+            <p>Now that we may ſee the odiouſneſſe of this unlawfull attire, the bet<g ref="char:EOLhyphen"/>ter it will appeare in theſe foure particulars.</p>
+            <p>Firſt your outward adorning, or laying forth the haire, is a light attire, for the Prophet <hi>Eſay</hi> brings it in among the rabble of thoſe particulars which made up a light geſture, as you may reade <hi>Eſay</hi> 3. 24.</p>
+            <p>Secondly, laying forth of the haire, or any ſuch like outward adorning, it is a vain attire, it is of no ſubſtantiall uſe, but to pleaſe the fancy, it is ſo far from drawing men to ſee God in you by it, as it provokes them more to luſt, by ſeeing ſuch weare it.</p>
+            <p>Thirdly, it is a proud attire, it was brought in among thoſe particulars of pride, in the place we mentioned before, <hi>Eſay</hi> 3. 24. as a judgement on thoſe particularly that had miſuſed their haire, in theſe words, <hi>Inſtead of well ſet haire baldneſſe,</hi> as if the Lord ſhould have ſpoke by the Prophet, you that have abuſed your haire, by taking more delight in it, then in me, I will take this Idoll out of your way, and inſtead of well ſet haire, place baldneſſe.</p>
+            <p>Fourthly, it is an unſeemly attire, not befitting grave and holy women, and this will appeare alſo to be a truth, if we ſhall conſider, if it be un<g ref="char:EOLhyphen"/>ſeemly for a woman for to go in mans apparrell, how much more is it un<g ref="char:EOLhyphen"/>ſeemly for grave and holy Chriſtian women to go in Strumpets attire, and take ye no exception at this kinde of terme, for the Apoſtle Saint <hi>Paul</hi> ſpeakes of the unſeemlineſſe of it, eſpecially in godly women, as you may reade 1 <hi>Tim.</hi> 2. 9. where it is ſaid, that <hi>women adorn themſelves in mo<g ref="char:EOLhyphen"/>deſt apparell, with ſhamefacedneſſe, and ſobriety,</hi> and he begins firſt with
+<pb n="4" facs="tcp:124899:6"/>
+broidered haire, as if it were both an immodeſt, and a bold, and audacious attire, and do you not think becauſe the Apoſtle ſpeaks of broidered haire, and I being againſt laying forth the haire, that this is not to the purpoſe: I ſuppoſe it is, for it was that faſhion of haire that thoſe women did uſe in them dayes, as you know in every age faſhions do alter, and this your laying forth the haire, though it be the faſhion now, comes under that, and the Apoſtle would have reproved it as the other, if it had been worne in them dayes, as an immodeſt attire, very unſeemly becoming holy gra<g ref="char:EOLhyphen"/>cious women.</p>
+            <p>Secondly, if we do but conſider thoſe dangerous inconveniencies which doth attend this outward adorning of attire of haire, it will appear unto you to be utterly unlawfull.</p>
+            <p>Firſt, in regard of themſelves this outward adorning of attire of haire will prove very inconvenient, becauſe it is one of the greateſt inſtruments that Satan hath to ſet pride on worke; we commonly ſay a Peacocke is a proud creature, and our reaſon is not taken from the turning of his head, for ſo other creatures do, but from the variety of coulers of his feathers, which we ſuppoſe is the cauſe of the turning of his head, and hence comes that old phraſe, <hi>to be as proud as a Peacocke,</hi> and truly ſuch godly women that go in ſuch a gaudy attire, it muſt needs be a great inſtrument of ſtirring up of pride in them, becauſe is is ſo neere unto the eye, and it will be moſt an end upon it.</p>
+            <p>Secondly, this attire of laying forth the haire, it will be a dangerous in<g ref="char:EOLhyphen"/>convenience in regard of others, two wayes, either unto godly perſons, or elſe unto wicked men.</p>
+            <p>Firſt, this kinde of outward adorning will be a very inconuenient attire in regard of godly men and women, and becauſe it will be one great cauſe of their judging of them to be ſeeming holy, when as it may be they may be really holy, and ſo by this means it may cauſe the love that ſhould be a<g ref="char:EOLhyphen"/>mong the Saints, to be abated, and inſtead of love to grow ſtrange unto each other.</p>
+            <p>Secondly, this kinde of outward adorning of laying forth the haire is a very inconvenient attire, in regard of wicked men to, becauſe it will rather provoke them to luſt by beholding of ſuch, then by ſeeing any thing in that attire to draw them unto any good.</p>
+            <p>Now having diſcovered the unlawfulneſſe of any outward adorning of attire of haire in all women, but eſpecially among godly women, I now am come to anſwer theſe objections, which are ſeemingly made for it.</p>
+            <p>The firſt objection is this, oh but your ground worke, which you have
+<pb n="5" facs="tcp:124899:6"/>
+builded all this while upon, is a rotten foundation, and not taken in that ſence which you underſtand it for to be, for read you but the minde of the Apoſtle in the place of <hi>Peter,</hi> 1.3.3. and you ſhall finde that his meaning is cleane contrary, in that he ſaith let not your converſation lie in your outward adorning of plaiting the haire, or of wearing apparell, but let it be in the hidden man of the heart, even the ornament of a quiet, and meeke ſpirit, implying thus much, not that we ſhould not lay our haire out, but that we ſhould not place any Religion in the plaiting of the haire, or any other adorning, but only in the hidden man of the heart.</p>
+            <p>
+               <hi>Anſwer,</hi> indeed in one ſence it is to be underſtood ſo, becauſe it was all the drift of the Apoſtle <hi>Peter</hi> to beat men from placing Religion in any thing here below, not onely in any outward thing, but in any thing that was corruptible, as in gifts or graces, or the like, but now if this were all the meaning of the Apoſtle here, then this place of Scripture would ſeeme to prove that a woman might wear her haire plaited, or gold, or any kinde of apparell, ſo that they did not place any Religion in it, which if this expoſition ſhould ſtand, then it would breake that rule which godly men holds, that one place of Scripture, if it be underſtood a right, it ne<g ref="char:EOLhyphen"/>ver thwarts another, but this expoſition doth two places of Scripture; firſt 1. <hi>Cor.</hi> 11.16. that of the Apoſtle <hi>Paul, Her haire is given her for a co<g ref="char:EOLhyphen"/>vering,</hi> now a woman cannot be ſaid to be covered, when as it is broide<g ref="char:EOLhyphen"/>red and plaited, or laid forth, again it contradicts that place which the A<g ref="char:EOLhyphen"/>poſtle ſpeakes of in 1 <hi>Timothy</hi> in 2. 9. where he ſaith, let women adorne themſelves in modeſt apparell with ſhame-faſtneſſe, and ſobriety, not with broidered haire or gold, or pearles, or coſtly aray, but 10. <hi>ver.</hi> which becometh women profeſsing godlineſſe, and good workes, implying, that the outward adorning of laying forth the haire, is a very unbeſeeming thing, becoming women profeſsing godlineſſe.</p>
+            <p>Secondly, you may object and ſay my haire is not plaited nor criſped, but onely laid forth, and therefore all the concluſions which you draw from the Apoſtle <hi>Peters</hi> words is of no purpoſe, for he ſpeaks not ſo much to me, as to thoſe who weare their haire criſped or plaited, &amp;c.</p>
+            <p>I anſwer, the word plaited here uſed by the Apoſtle is taken for a gene<g ref="char:EOLhyphen"/>rall expreſsion, concluding all ſorts in one terme, as if he ſhould have ſaid, let not your converſation be in your outward adorning, as plaiting of the hair, or any ſuch like faſhion, ſo that whatſoever faſhion it be, either criſ<g ref="char:EOLhyphen"/>ped or broidered, or plaited, or laid forth, if it come under this terme of an outward adorning, it is utterly unlawfull from the rule of the Apoſtle <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> as you cannot deny but your attire of laying forth your haire, comes under the terme of outward adorning.</p>
+            <pb n="6" facs="tcp:124899:7"/>
+            <p>Thirdly, you may object from the Apoſtles words 1. <hi>Cor.</hi> 11.16. that hair was given of God unto you for a covering, and you uſe it for no other end.</p>
+            <p>Anſwer; firſt, that way you uſe it, it is but a ſeeming covering, and no reall covering, and it will appeare that it is rather an uncovering as you uſe it, then a covering, in that you take it out of its proper place, to hang it down in another place. Secondly, its againſt the rule of the Apoſtle ſo to do, for he ſaith you muſt be covered, or elſe you muſt be ſhorne; the A<g ref="char:EOLhyphen"/>poſtle doth not mean here, that your hair ſhould only cover your head and ears, but that your clothes ſhould cover your hair, and therefore this was the reaſon that men muſt have their hair cut, becauſe men was to wear no clothes to cover their head, therefore ſaith the Apoſtle, if you wil not cover your heads, that part which is uncovered muſt be ſhorne or ſhaven, imply<g ref="char:EOLhyphen"/>ing, that his meaning is, that their clothes ſhould cover their haire. Third<g ref="char:EOLhyphen"/>ly, if you would have the meaning of the Apoſtle, that your hair ſhould be given you for an outward covering, then by this rule it were unlawfull for any woman to wear any covering upon her hair, which to underſtand it ſo will be rediculous. Fourthly, if you ſhould take the Apoſtles meaning, that her hair was given her for an outward covering, then by this rule ſhe might wear it of any faſhion, ſo that it covers her head, though that it hang down all her neck, ears, and forehead, being tied up neatly, to which you will ſay this is like more unto a mad, frantick woman, then to a ſober, grave, and holy woman. Fiftly, your laying forth of your hair, cometh under that ad<g ref="char:EOLhyphen"/>monition, which the Apoſtle <hi>Peter</hi> gives of an outward adorning, for why may not that part of the hair be tied up as wel as all the reſt, or why do you not let all the reſt of your hair hang down about your head, as well as that?</p>
+            <p>Fourthly, you may object end ſay, oh but my hair is given me for an orna<g ref="char:EOLhyphen"/>ment, and I take no pride in my laying it forth.</p>
+            <p>
+               <hi>Anſ.</hi> I do not deny but that your hair is an ornament to your head, be<g ref="char:EOLhyphen"/>cauſe the Lord created it for that proper place, but that your hair is given you as an ornament to deck your ſelf withall, that is againſt the rule of both the Apoſtles, for that the Apoſtle <hi>Paul</hi> ſaith your hair is given you for a covering, and not to deck your ſelf withall, and the Apoſtle <hi>Peter</hi> con<g ref="char:EOLhyphen"/>demnes it for an outward decking, for if it had bin given an ornament to deck your ſelf, the Apoſtle <hi>Paul,</hi> 1 <hi>Tim.</hi> 29. would not have condemned it, an unſeemly attire, not befitting grave and holy women.</p>
+            <p>Fiftly, you may object and ſay, though I have no abſolute rule for it from the word of God, yet I have the examples of many godly grave and holy women for it.</p>
+            <p>
+               <hi>Anſ.</hi> Firſt you muſt never follow the example of any godly man or wo<g ref="char:EOLhyphen"/>man then their example is regulated by the word.</p>
+            <pb n="7" facs="tcp:124899:7"/>
+            <p>Secondly, if you ſhall aske any of them upon what ground they do were it, they can give you no Scripture for it, but one of theſe two reaſons, or ſome other ſuch like carnall reaſons, either they will ſay it was a faſhion that I was brought up in from my parents, who went in the ſame faſhion before me, or elſe they will ſay, why may not I wear it as well as ſuch and ſuch women, poor anſwers to ſatisfie conſcience in ſuch a caſe.</p>
+            <p>Sixtly, you may object and ſay, why do you thinke they are all godly women, that goes cloſe covered in their hair, or do you think that they be all but ſeeming Chriſtians, as you terme them, that layes their haire forth?</p>
+            <p>
+               <hi>Anſw.</hi> I neither ſay they are the one or the other, but ſuppoſe a godly woman were walking with a wicked woman abroad, the godly woman ſhe having her haire forth, the carnall woman ſhe is cloſe covered, you fol<g ref="char:EOLhyphen"/>lowing of them, you meeting with a friend and ſay, I pray Sir do you know thoſe two women that paſſed by us? Yes, ſaith he very well, I pray ſaith he, what is that woman that went in that modeſt attire? oh ſaith he ſhe is a very carnall woman, and what is the other woman that had her hair forth? ſhe is a very precious godly woman; good lack ſaith he, it did not appear ſo to me by her gaudy attire, well ſaith he, let the other carnall woman be vvhat ſhe vvill ſhe goeth more modeſter, then the other godly vvoman, ſo that even nature may teach women to be more modeſter in their attire of haire, but more eſpecially godly women.</p>
+            <p>Seventhly, you may object and ſay, oh but all this while you have but drawn it out by conſequences, that vvomens laying forth their hair is a ſin, you have brought never a place of Scipture flat againſt it, and therefore it may be your ovvn brain meaning more then the meaning of the Scipture.</p>
+            <p>
+               <hi>Anſ.</hi> Although there is no ſuch place of Scripture as this, thou ſhalt not lay thy hair forth, yet doubtles, though it vvas not ſpoken againſt by God himſelf, yet in ſo much as it vvas ſpoken againſt by the Apoſtle <hi>Paul,</hi> vvho had the Spirit of God; vvhatſoever he ſpoke then, vvas the minde of God, for vvhatſoever that vvas ſpoken againſt the minde of God had been a ſin, but ſuch a one as <hi>Paul,</hi> vvho had ſuch a meaſure of the ſpirit, could not ſin in ſuch a caſe, as to ſpeak his ovvn judgement vvhen as it vvas not the mind of God, therefore it muſt needs be the minde of God, that laying forth of hair is unlawful, in that he uſed the apoſtle <hi>Paul</hi> &amp; <hi>Peter</hi> to minde us of it.</p>
+            <p>Eightly, you may object and ſay, oh but my birth requires is, and the com<g ref="char:EOLhyphen"/>pany I keep withall daily requires it or elſe, I ſhall not be fitting for ſuch companie.</p>
+            <p>
+               <hi>Anſ.</hi> firſt vvill you prefer your naturall birth, before your ſpirituall birth? Secondly, if you can diſcerne vvhat a naturall birth requires in your attire
+<pb n="8" facs="tcp:124899:8"/>
+of haire, why cannot you as well then diſcerne by the rule of the Apoſtle what a ſpirituall birth requires, which is plainly diſcovered to be againſt your laying forth the haire. Thirdly, as for the company you are with ac<g ref="char:EOLhyphen"/>cording to your ranke, you muſt not be guided more by their rule then by the patterne of the word, as the Lord hath put a difference between them, and you in their ſoules condition, ſo the Lord hath put a difference be<g ref="char:EOLhyphen"/>tween you and them, in your attire.</p>
+            <p>Ninthly, you may object and ſay, why may not I as well go in this at<g ref="char:EOLhyphen"/>tire of haire, as to go in gold and ſilver, ſeeing that is lawfull for me to do, if it be according to my ranke and place.</p>
+            <p>
+               <hi>Anſw.</hi> For your gold and ſilver it is lawfull for to weare, by ſuch per<g ref="char:EOLhyphen"/>ſons in whom the Lord is ſo pleaſed to beſtow this worldly wealth upon, as you may read in the booke of <hi>Exodus,</hi> and in <hi>Job</hi> 32. 11. but they that weare their haire out, have no rule for it, but a flat rule againſt it.</p>
+            <p>Tenthly, you may object and ſay, oh but God requires that our adorn<g ref="char:EOLhyphen"/>ing ſhould be decent and comely, and I never wore my haire but decent, civill and comely.</p>
+            <p>
+               <hi>Anſw.</hi> There can be nothing ſaid to be decent and comely, which is diſpleaſing unto God, and it is as undecent in Gods ſight for a woman to wear their haire out, as it is undecent in mans ſight for a woman for to go in mans apparell, and ſurely the Apoſtle <hi>Paul</hi> and <hi>Peter</hi> would never have troubled themſelves ſo much in ſpeaking of it, if it had not been both diſ<g ref="char:EOLhyphen"/>pleaſing unto God and man, nay the Lord would not threaten ſuch a judge<g ref="char:EOLhyphen"/>ment on them for it, that did abuſe their haire, as you may read <hi>Eſay</hi> 3. 24. inſtead of well ſet haire, baldneſſe; read but out all the words in that verſe, and you ſhall finde that in every particular wherein they offended, and diſpleaſed God, the Lord ſent them a particular judgement for it, as you may read inſtead of ſweet ſmell, a ſtinke, implying it was diſpleaſing, &amp; inſtead of beauty, burning or tanned, ſo that for every particular ſin the Lord had a judgement for it<hi>:</hi> for no doubt that the Lord was not diſplea<g ref="char:EOLhyphen"/>ſed with their naturall beauty, for then he ſhould deſpiſe his own creature that he made, but that artificiall beauty which they put upon themſelves, and ſo we muſt underſtand the Lord ſent a judgement of baldneſſe upon thoſe women that had well ſet hair, not becauſe it was his own workman<g ref="char:EOLhyphen"/>ſhip, but becauſe they abuſed their haire, &amp;c.</p>
+            <p>Eleaventhly, oh but this dreſſing in my haire becometh me more better then my dreſſing in cloathes doth, and therefore I weare, and for no o<g ref="char:EOLhyphen"/>ther end.</p>
+            <p>
+               <hi>Anſw.</hi> Firſt, take heed that this faſhion blinde not your eyes, that you
+<pb n="9" facs="tcp:124899:8"/>
+cannot ſee the uglineſſe in it, for pride and ſelfe love blindes one that they cannot ſee, that which another ſeeth in them to be unſeemly.</p>
+            <p>Secondly, do not perſwade your ſelfe it is a ſeemly faſhion beſt becom<g ref="char:EOLhyphen"/>ming of you, for if you do but look upon it, you are in your apparell more like an Hermophrodite, that is to ſay halfe man and halfe woman, that is, when as you ſhall be like to a woman downward in your apparell, and you ſhould be like to a man upward in your Hat, and haire.</p>
+            <p>Thirdly, your wearing of hair forth is no ſuch comely dreſsing, becauſe it takes away that modeſty, and ſhamefaſtneſſe, which would if you were godly women appear in you, and to ſay the truth, thoſe ſeeme to be more viragines or men like women that do werae it, then modeſt grave and holy women.</p>
+            <p>Twelfthly, oh but you may ſay, though you may prove it is unlawfull for a woman to lay forth her haire, yet I hope it is not unlawfull for one to go cloſe covered wearing ſome lockes of haire forth, doing it only for the ſetting forth of my perſon, as I do weare my dreſsing for that end.</p>
+            <p>
+               <hi>Anſw.</hi> Firſt, if it be unlawfull to do the greater, it muſt needs follow to be unlawfull to do the leſſe, if it be unlawfull for a man to ſweare a great oath, it is as unlawful for a man to ſwear a little oath, &amp; my reaſon is this, becauſe the leaſt ſin in Gods ſight is as hainous unto him as the greateſt ſin, becauſe in the leaſt ſin we do blemiſh the Image of God, though in the greater ſins it be in a greater degree, and truly a ſmall ſin given by a Saint unto God, is more hainouſer then a greater ſin given by a wicked man, be<g ref="char:EOLhyphen"/>cauſe he that doth not the will of God ignorantly ſhall not be excuſed, but he that knoweth how to do the will of God, and doth it not, he ſhall be left to be puniſhed, without excuſe: <hi>Luke</hi> 12. 47, 48.</p>
+            <p>Secondly, to weare your locks forth, it comes under the ſame admoniti<g ref="char:EOLhyphen"/>on as the Apoſtle <hi>Peter</hi> ſpeakes of, and outward adorning, and under the Apoſtle <hi>Pauls</hi> rule of, an immodeſt Attire, not beſeeming gracious holy women, profeſſing godlineſſe, and therefore utterly unlawfull.</p>
+            <p>Thirdly, it is an object of pride, to ſet it a working in thoſe that do weare it, though perhaps all preſent may not do it for that end, I inſtance thus: you will ſay it were a very unbeſeeming thing for a man to pray un<g ref="char:EOLhyphen"/>to God to give him power over his luſt of uncleanneſſe, and yet you to ſee him daily to uſe laſcivious pictures, and wanton geſtures, truely it is one and the ſame caſe in godly women, who prayeth daily unto God for pow<g ref="char:EOLhyphen"/>er over their ſinnes, and among all the reſt, prayeth againſt the ſin of pride, and againſt all thoſe Inſtruments which may be a means of ſtirring
+<pb n="10" facs="tcp:124899:9"/>
+up of it in them, and yet ſhall daily Locke forth their haire, which is not onely as great an inſtrument to ſtir up pride in them, if there ſhould be none, as it giveth cauſe unto other godly perſons, to be but pride it ſelfe, and truely in concluſion, if there were no ſin to be found in it, yet in ſo much as it hath been this many yeers, ſuch a great affence given unto ſo many godly men and women, which by their wearing of it, hath been a great cauſe to Cenſure them, though it may be they never deſerved it, if it were but onely upon this ground and none other, it were enough to beat you from your pleading for it, and to lay it down, as a thing both offen<g ref="char:EOLhyphen"/>ſive unto God and man, and though your knowledge may be very much, I know <hi>Paul</hi> had as much as you, and yet his ſpirit came ſo low, as you may read, 1 <hi>Cor.</hi> 8. 13. Wherefore if meat make my brother to offend, I will eat no fleſh while the world ſtandeth, which was a greater matter to abſtain from that food which was ſo nouriſhing to his body, then for you to lay in your head of haire, or locke of haire, and to be cloſe Cove<g ref="char:EOLhyphen"/>red, ſeeing you have a Rule, In caſe you give by any meanes any offence, to a weak Brother or Siſter, and ſo by this meanes make them to offend that Great God, to whom be praiſe through Jeſus Chriſt our Saviour and Redeemer, for ever, world without end.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
